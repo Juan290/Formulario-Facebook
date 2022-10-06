@@ -1,0 +1,60 @@
+.pagina{
+color: blue;
+font-size: 80px;
+margin-bottom: 0px;
+ }
+.mover{
+text-align: center;
+}
+ 
+.tamaño{
+    margin-top: 15px;
+    font-size: 37px;
+}
+
+.personalizacion{
+  text-align: center;  
+  border: solid 2px;
+  margin-left: 36%;
+  margin-right: 36%;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 6px 5px 5px  6px rgb(220, 217, 217);
+  border: none;
+}
+
+.email{
+    margin-bottom: 15px;
+    padding: 10px;
+    width:240px;
+}
+     
+.color{
+    padding: 10px;
+    width: 264px;
+    background-color: rgb(95, 95, 255);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.redireccionar{
+    outline: none;
+}
+
+.boton{
+    background-color: rgb(22, 220, 22);
+    color: white;
+    margin-top: 30px;
+    border: none;
+    border-radius: 6px;
+    padding: 10px;
+    width: 150px;
+    
+}
+
+.comentario{
+    text-align: center;
+}
+
